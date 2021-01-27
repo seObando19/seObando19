@@ -1,5 +1,9 @@
 # Hi, I'm Sebastian 👋
 ## 👨🏻‍💻 About Me
+I am a software developer, a lover of challenges and eager to learn and teach, I like to talk about fronted topics such as backend and data science.
+
+I consider myself an honest, responsible and funny person, my hobbies generally go from listening to a lot of music, playing ping pong and creating code ideas and talking about technology with a coffee.
+
 - 🔭 I’m Fullstack Software Developer
 - 🌱 I’m currently learning Javascript
 - 🎵 I like listen to music
