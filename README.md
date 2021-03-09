@@ -1,4 +1,5 @@
 # Hi, I'm Sebastian 👋
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" align="right" width=280>
 I consider myself a fun and passionate person about the digital world and programming, which likes to solve algorithmic problems, my hobbies are listening to a lot of music, playing ping pong and creating web projects, algorithms and talking about technology with a coffee.
 
 - 🔭 I’m Fullstack Software Developer
@@ -7,7 +8,7 @@ I consider myself a fun and passionate person about the digital world and progra
 - 🍕 I love Pizza and burger 🍔
 - 📫 How to reach me **sebastiano-10@hotmail.com**
 
----
+<br>
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
