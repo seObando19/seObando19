@@ -1,23 +1,35 @@
 # Hi, I'm Sebastian 👋
-## 👨🏻‍💻 About Me
-I am a software developer, a lover of challenges and eager to learn and teach, I like to talk about fronted topics such as backend and data science.
-
-I consider myself an honest, responsible and funny person, my hobbies generally go from listening to a lot of music, playing ping pong and creating code ideas and talking about technology with a coffee.
+I consider myself a fun and passionate person about the digital world and programming, which likes to solve algorithmic problems, my hobbies are listening to a lot of music, playing ping pong and creating web projects, algorithms and talking about technology with a coffee.
 
 - 🔭 I’m Fullstack Software Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning **(Html, Css, Javascript) and Nodejs**
 - 🎵 I like listen to music
 - 🍕 I love Pizza and burger 🍔
+- 📫 How to reach me **sebastiano-10@hotmail.com**
 
 ---
-## Skills
+<details>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<br/>
+  	<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
+	<img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+	<img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</details>
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=seObando19&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=seObando19&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
+</details>
+</br>
 
-* HTML | CSS
-* Python (native, OOP, Flask)
-* C
-* Mysql
-* Visual Studio Code
----
+
 ## Connect with me
 <div align="Left">
      <p align="center">
@@ -32,17 +44,3 @@ I consider myself an honest, responsible and funny person, my hobbies generally 
     </p>
 
 ---
-
-<br>
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-  
-<div>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=seObando19&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</div>
-</br>
-<div>
-   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seObando19&layout=compact&theme=material-palenight&langs_count=8" width="49%" />
-</div>
-</div>
-</br>
